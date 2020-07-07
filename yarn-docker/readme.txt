@@ -1,0 +1,1 @@
+docker run -it  -p 8080:8080  -v d:/Code/markdown-online-editor:/code 27d2dd53da0b bash
